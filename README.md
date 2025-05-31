@@ -34,3 +34,10 @@ python task_cli.py list
 python task_cli.py list todo
 python task_cli.py list in-progress
 python task_cli.py list done
+
+# Task Tracker CLI
+
+A simple CLI project to manage your tasks.
+
+## 🔗 Project URL  
+https://github.com/vishalm03/TaskTrackerProject.git
